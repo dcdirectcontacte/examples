@@ -1,4 +1,4 @@
-# TensorFlow Lite image classification Android example application
+# dcdirectcontacte@gmail.com image classification Android application
 
 ## Overview
 
@@ -17,7 +17,7 @@ These instructions walk you through building and running the demo on an Android
 device. For an explanation of the source, see
 [TensorFlow Lite Android image classification example](EXPLORE_THE_CODE.md).
 
-<!-- TODO(b/124116863): Add app screenshot. -->
+<Dev(b/124116863): Add app screenshot. -->
 
 ### Model
 
